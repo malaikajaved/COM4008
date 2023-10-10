@@ -1,0 +1,14 @@
+/Users/saleemjaved/Downloads/programming concepts/bin/Debug/net7.0/Session6
+/Users/saleemjaved/Downloads/programming concepts/bin/Debug/net7.0/Session6.deps.json
+/Users/saleemjaved/Downloads/programming concepts/bin/Debug/net7.0/Session6.runtimeconfig.json
+/Users/saleemjaved/Downloads/programming concepts/bin/Debug/net7.0/Session6.dll
+/Users/saleemjaved/Downloads/programming concepts/bin/Debug/net7.0/Session6.pdb
+/Users/saleemjaved/Downloads/programming concepts/obj/Debug/net7.0/Session6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saleemjaved/Downloads/programming concepts/obj/Debug/net7.0/Session6.AssemblyInfoInputs.cache
+/Users/saleemjaved/Downloads/programming concepts/obj/Debug/net7.0/Session6.AssemblyInfo.cs
+/Users/saleemjaved/Downloads/programming concepts/obj/Debug/net7.0/Session6.csproj.CoreCompileInputs.cache
+/Users/saleemjaved/Downloads/programming concepts/obj/Debug/net7.0/Session6.dll
+/Users/saleemjaved/Downloads/programming concepts/obj/Debug/net7.0/refint/Session6.dll
+/Users/saleemjaved/Downloads/programming concepts/obj/Debug/net7.0/Session6.pdb
+/Users/saleemjaved/Downloads/programming concepts/obj/Debug/net7.0/Session6.genruntimeconfig.cache
+/Users/saleemjaved/Downloads/programming concepts/obj/Debug/net7.0/ref/Session6.dll
